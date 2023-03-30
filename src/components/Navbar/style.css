@@ -1,0 +1,15 @@
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  align-items: center;
+}
+
+.nav-actions button:first-of-type {
+  margin-right: 1rem;
+}
