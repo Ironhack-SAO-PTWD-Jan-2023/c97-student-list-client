@@ -1,0 +1,10 @@
+footer a {
+  text-decoration: none;
+}
+
+footer {
+  padding: 0.5rem;
+  font-size: 0.653rem;
+  display: flex;
+  justify-content: space-between;
+}
