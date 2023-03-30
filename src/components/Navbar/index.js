@@ -6,7 +6,7 @@ function Navbar() {
     <nav>
       <div className="logo">
         <NavLink to="/">
-          <h1>List de Alunos EX</h1>
+          <h1>Lista de Alunos EX</h1>
         </NavLink>
       </div>
       <div className="nav-actions">
